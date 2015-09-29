@@ -70,6 +70,11 @@ a:hover {
 .nav__link:first-child {
   margin-left: 400px;
 }
+@media (max-width: 1400px) {
+  .nav__link:first-child {
+    margin-left: 40px;
+  }
+}
 .nav__link-phone {
   display: block;
   font-size: 14px;
