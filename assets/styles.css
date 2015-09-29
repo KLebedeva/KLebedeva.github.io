@@ -39,6 +39,12 @@ a:hover {
   max-width: 1300px;
   overflow: hidden;
 }
+@media (max-width: 1400px) {
+  .container {
+    width: 100%;
+    padding-right: 40px;
+  }
+}
 
 
 
